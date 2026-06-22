@@ -1,0 +1,12 @@
+import numpy as np
+a=np.array([10,20,30,40])
+b=np.array([2,4,5,8])
+print("ADDITION:",a+b)
+print("SUBTRACTION:",a-b)
+print("MULTIPLICATION:",a*b)
+print("DIVISION:",a/b)
+print("original array:",a)
+print("SLICING ELEMENTS FROM INDEX 1 TO 3:",a[1:3])
+reshaped=a.reshape(2,2)
+print("RESHAPPED ARRAY(2 BY 2 MATRIX FOEM):",reshaped)
+print("Broadcasting (add 10 to each):",reshaped + 10)
