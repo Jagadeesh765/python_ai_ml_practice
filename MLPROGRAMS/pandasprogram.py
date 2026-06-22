@@ -1,0 +1,12 @@
+import pandas as pd
+df=pd.read_csv("data.csv")
+print("Head:")
+print(df.head())
+print("\nTail:")
+print(df.tail())
+print("\nShape:")
+print(df.shape)
+print("\nData Types:")
+print(df.dtypes)
+print("\nColumns:")
+print(df.columns)

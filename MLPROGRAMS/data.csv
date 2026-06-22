@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Course,Marks,City
+101,Amit Sharma,20,Male,CSE,85,Delhi
+102,Priya Reddy,21,Female,ECE,92,Hyderabad
+103,Rahul Verma,19,Male,MECH,78,Mumbai
+104,Sneha Patel,22,Female,CSE,88,Ahmedabad
+105,Arjun Kumar,20,Male,EEE,81,Chennai
+106,Neha Singh,21,Female,CIVIL,90,Lucknow
+107,Vikram Rao,23,Male,CSE,76,Bangalore
+108,Pooja Gupta,20,Female,ECE,95,Jaipur
+109,Kiran Das,22,Male,MECH,84,Kolkata
+110,Anjali Mehta,19,Female,EEE,89,Pune
